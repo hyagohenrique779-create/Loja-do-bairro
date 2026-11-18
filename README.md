@@ -1,3 +1,6 @@
+Loja do Bairro - Kanban
+_______________________
+
 ### Papéis do Time Scrum – Loja do Bairro
 * **Product Owner (PO):** Bruna
 * **Scrum Master (SM):** Fabricio
